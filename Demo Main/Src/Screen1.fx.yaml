@@ -1,0 +1,18 @@
+Screen1 As screen:
+    Fill: =Color.White
+    LoadingSpinnerColor: =App.Theme.Colors.Primary
+
+    "'Side Nav_1' As 'Side Nav'":
+        Width: =369
+
+    Icon1 As Icon:
+        DisplayMode: =DisplayMode.Edit
+        Height: =349
+        Icon: ="Airplane"
+        IconColor: =RGBA(54, 176, 75, 1)
+        IconStyle: ='Icon.IconStyle'.Outline
+        Width: =487
+        X: =662
+        Y: =209
+        ZIndex: =2
+
