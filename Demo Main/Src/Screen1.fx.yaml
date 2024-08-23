@@ -1,0 +1,7 @@
+Screen1 As screen:
+    Fill: =Color.White
+    LoadingSpinnerColor: =App.Theme.Colors.Primary
+
+    "'Side Nav_1' As 'Side Nav'":
+        Width: =257
+
